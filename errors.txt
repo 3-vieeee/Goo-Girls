@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 203: expected statement.
+    scne show holding_hands at image_resize with Dissolve(1.0)
+                            ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Sun Nov 15 14:24:09 2026
