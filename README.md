@@ -1,3 +1,3 @@
 # Goo-Girls
  Visual novel for Haven. 
- Created by Pia & Augustine
+ Created by syty_78 & Eveacado
